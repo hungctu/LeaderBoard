@@ -1,5 +1,5 @@
-# 1010 Block Puzzle
-#### 1010 Block Puzzle is a game that helps train players' intelligence and relieve stress. With extremely simple gameplay, just fill in the gaps on the frame and you can bring yourself bonus points.
+# 1010! Block Puzzle Original
+#### 1010! Block Puzzle Original - 21st Century Legendary Puzzle is a modern puzzle game that we developed based on inspiration from classic games. Simple gameplay will entertain you and train your brain's concentration.
 
 
 ## Leaderboard
