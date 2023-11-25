@@ -1,5 +1,5 @@
 # 1010! Block Puzzle Original
-#### 1010! Block Puzzle Original - 21st Century Legendary Puzzle is a modern puzzle game that we developed based on inspiration from classic games. Simple gameplay will entertain you and train your brain's concentration.
+#### 1010! Block Puzzle Original is a modern puzzle game that we developed based on inspiration from classic games. Simple gameplay will entertain you and train your brain's concentration.
 
 
 ## Leaderboard
