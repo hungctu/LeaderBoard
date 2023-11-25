@@ -3,7 +3,7 @@
 
 
 ## Leaderboard
-#### In the game 1010 Block Puzzle, I play the role of building a Leadboard for users. The leadboard will update the players' rankings and display the top 10 people with the highest scores in the game and also your ranking.
+#### In the game 1010 Block Puzzle, my role is to build a Leadboard for users. The leadboard will update the players' rankings and display the top 10 people with the highest scores in the game and also your ranking.
 
 
 ## Tech Used
