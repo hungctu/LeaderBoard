@@ -1,9 +1,9 @@
 # 1010! Block Puzzle Original
-#### 1010! Block Puzzle Original is a modern puzzle game that we developed based on inspiration from classic games. Simple gameplay will entertain you and train your brain's concentration.
+#### 1010! Block Puzzle Original is a contemporary puzzle game crafted with inspiration drawn from classic favorites. Its straightforward gameplay guarantees entertainment while also sharpening your brain's concentration skills.
 
 
 ## Leaderboard
-#### In the game 1010 Block Puzzle, my role is to build a Leadboard for users. The leadboard will update the players' rankings and display the top 10 people with the highest scores in the game and also your ranking.
+#### In the 1010 Block Puzzle game, my responsibility is to construct a Leaderboard for users. This Leaderboard dynamically updates players' rankings, showcasing the top 10 individuals with the highest scores and your own ranking.
 
 
 ## Tech Used
